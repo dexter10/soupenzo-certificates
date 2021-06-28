@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: 	Soupenzo - Sequential Certificates
-Plugin URI:		https://soupenzo.nl
+Plugin Name:  Soupenzo - Sequential Certificates
+Plugin URI:   https://soupenzo.nl
 Text Domain:  soupenzo-certificates
 Domain Path:  /languages
-Description: 	Adds custom sequential certificate permissions per order
-Author: 		  Jason Jeffers
-Version: 		  1.0
-Author URI: 	http://ordnung.nl
+Description:  Adds custom sequential certificate permissions per order
+Author:       Jason Jeffers
+Version:      1.0
+Author URI:   http://ordnung.nl
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
@@ -382,7 +382,7 @@ class Soupenzo_Certificates {
   * @return delete product permissions
   */
 
-	public static function revoke_downloadable_file_permissions( $variation_id, $order_id, $customer_id )
+  public static function revoke_downloadable_file_permissions( $variation_id, $order_id, $customer_id )
   {
 		global $wpdb;
 
