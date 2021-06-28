@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Soupenzo - Sequential Certificates\n"
+"POT-Creation-Date: 2021-06-11 09:33+0200\n"
+"PO-Revision-Date: 2021-06-10 07:55+0200\n"
+"Last-Translator: Jason Thane Jeffers <info@ordnung.nl>\n"
+"Language-Team: Jason Thane Jeffers <info@ordnung.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: soupenzo-certificates.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: soupenzo-certificates-OLD.php:187 soupenzo-certificates.php:302
+msgid "Certificate Numbers - 5 year"
+msgstr ""
+
+#: soupenzo-certificates-OLD.php:188 soupenzo-certificates.php:303
+msgid "Certificate Numbers - 10 year"
+msgstr ""
+
+#: soupenzo-certificates-OLD.php:222 soupenzo-certificates.php:314
+msgid "Soupenzo-Certificates"
+msgstr ""
+
+#: soupenzo-certificates-OLD.php:385 soupenzo-certificates.php:82
+#: soupenzo-certificates.php:491
+msgid "Get Certificates"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Soupenzo - Sequential Certificates"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://soupenzo.nl"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds custom sequential certificate permissions per order"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jason Jeffers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ordnung.nl"
+msgstr ""
